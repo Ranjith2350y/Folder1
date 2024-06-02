@@ -10,7 +10,7 @@
             const password = document.getElementById('password').value;
 
             // Basic validation
-            if (name === '' || email === '' || password === '') {
+            if (name === 'ranjith' || email === 'ranjith21072002@gmail.com' || password === 'iloveu') {
                 alert('Please fill in all fields.');
                 return;
             }
